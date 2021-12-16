@@ -1,5 +1,5 @@
 const whiteSectionColor = 0xF4F4F4;
-const blackSectionColor = 0x000000;
+const blackSectionColor = 0x804000;
 
 class Tableboard extends THREE.Object3D {
     constructor() {
